@@ -61,3 +61,10 @@ Data timing and field definitions should be confirmed before deployment.
 ## Tools
 
 Microsoft Excel: formulas, customer segmentation, tables, and charts.
+
+## Analysis Workbook
+
+[Download the Excel analysis workbook](./marketing_campaign_data_project.xlsx)
+
+The workbook includes a dashboard, customer segmentation analysis,
+cleaned data, original data, and a data dictionary.
