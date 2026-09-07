@@ -68,3 +68,10 @@ Microsoft Excel: formulas, customer segmentation, tables, and charts.
 
 The workbook includes a dashboard, customer segmentation analysis,
 cleaned data, original data, and a data dictionary.
+
+## Dashboard Preview
+
+![Customer Marketing Dashboard](./dashboard.png)
+
+Note: Spending figures use the dataset's unspecified currency units;
+the dollar symbol in the dashboard is a formatting convention.
