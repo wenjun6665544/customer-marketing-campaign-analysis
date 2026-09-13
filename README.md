@@ -71,7 +71,20 @@ cleaned data, original data, and a data dictionary.
 
 ## Dashboard Preview
 
-![Customer Marketing Dashboard](./dashboard.png)
+![Customer Marketing Dashboard](./dashboard%20download.png)
 
 Note: Spending figures use the dataset's unspecified currency units;
 the dollar symbol in the dashboard is a formatting convention.
+
+## Data Source
+
+Dataset: [Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis),
+published on Kaggle by Akash Patel.
+
+- File analyzed: marketing_campaign.csv
+- Original dataset: 2,240 customer records and 29 variables
+- License listed on Kaggle: CC0 — Public Domain
+
+This project uses an existing public dataset for educational and
+portfolio purposes. Data cleaning, derived metrics, segmentation,
+and dashboard development are documented in this repository.
